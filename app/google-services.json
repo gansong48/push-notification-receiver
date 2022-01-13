@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772971303230",
+    "project_id": "push-notification-receiv-18040",
+    "storage_bucket": "push-notification-receiv-18040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772971303230:android:4e65cdbb7e666b6c069c6f",
+        "android_client_info": {
+          "package_name": "org.techtown.push_notification_receiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772971303230-ht73nheevsnudt72f4f4qk8b48k9td3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoF_e6NFRDFn5KhS0MYSKHi-TjqT3_zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772971303230-ht73nheevsnudt72f4f4qk8b48k9td3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
